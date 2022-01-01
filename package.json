@@ -1,0 +1,16 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The page that portrays how video feature works.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mireu-san/wetube-reloaded.git"
+  },
+  "author": "Jongwan Kim<starmireu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mireu-san/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/mireu-san/wetube-reloaded#readme"
+}
