@@ -7,10 +7,21 @@
     "type": "git",
     "url": "git+https://github.com/mireu-san/wetube-reloaded.git"
   },
+  "scripts": {
+    "dev": "nodemon --exec babel-node index.js"
+  },
   "author": "Jongwan Kim<starmireu@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mireu-san/wetube-reloaded/issues"
   },
-  "homepage": "https://github.com/mireu-san/wetube-reloaded#readme"
+  "homepage": "https://github.com/mireu-san/wetube-reloaded#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "nodemon": "^2.0.15"
+  }
 }
